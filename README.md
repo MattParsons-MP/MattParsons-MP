@@ -1,5 +1,5 @@
 # 💫 About Me:
-📖 I’m currently working on my skills<br>🌱 I’m currently learning more about computer science & programming.<br>🔭 I’m looking for opportunities to develop<br>🛰️ I build and operate autonomous RC aircraft<br>🛩️ I operate a WW2 aircraft in my spare time<br>🎥 I enjoy content creation<br>📫 Reach me at:  mat.parsons.27@gmail.com
+📖 I’m currently working on my skills<br>🌱 I’m currently learning more about computer science & programming.<br>🔭 I’m looking for opportunities to develop<br>🛰️ I build and operate autonomous RC aircraft<br>🛩️ I operate a WW2 aircraft in my spare time<br>🎥 I enjoy creating video content<br>📫 Reach me at:  mat.parsons.27@gmail.com
 
 ### Skills
 
