@@ -30,6 +30,8 @@
 
 - [Prepare, Clean, Transform and Load Data using Power Bi](https://coursera.org/share/b46a336dd591cdf65de635e52a844424) (Aug 2024) (Coursera)
 
+- [Data Cleaning In Excel](https://coursera.org/share/253c4149fdcb5aa36e89c7e00f9d4a1e) (Aug 2024) (Coursera)
+
 
 
 ### Socials
