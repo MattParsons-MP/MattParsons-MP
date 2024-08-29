@@ -9,7 +9,7 @@
 [<img align="left" alt="PowerBI" width="45px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" style="padding-right:10px;" />](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 
 <br />
-
+<br />
 
 ### Languages
 
