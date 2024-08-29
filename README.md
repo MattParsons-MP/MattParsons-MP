@@ -26,6 +26,8 @@
 
 - [Harnessing the Power of Data with Power Bi](https://coursera.org/share/416db9bb4adf994ce8e832ba55e89278) (Aug 2024) (Microsoft)
 
+- [Data Analysis with SQL: Inform a Business Decision](https://coursera.org/share/25686eee7b5810593cb2e35498e91406) (Aug 2024) (Coursera)
+
 - [Prepare, Clean, Transform and Load Data using Power Bi](https://coursera.org/share/b46a336dd591cdf65de635e52a844424) (Aug 2024) (Coursera)
 
 
