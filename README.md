@@ -2,9 +2,12 @@
 📖 I’m currently working on my skills<br>🌱 I’m currently learning more about Data Analysis.<br>🔭 I’m looking for employment opportunities<br>🛰️ I build and operate autonomous RC aircraft<br>🛩️ I operate a WW2 aircraft in my spare time<br>📫 Reach me at:  mat.parsons.27@gmail.com
 
 ### Data Skills
+
+<p>
 [<img align="left" alt="SQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" style="padding-right:10px;" />](https://www.mysql.com/)
 [<img align="left" alt="Excel" width="45px" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png?raw=true" style="padding-right:10px;" />](https://www.microsoft.com/en-gb/microsoft-365/excel)
-[<img align="left" alt="PowerBI" width="36px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" style="padding-right:10px;" />](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+[<img align="left" alt="PowerBI" width="45px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" style="padding-right:10px;" />](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+</p>
 
 ### Languages
 
