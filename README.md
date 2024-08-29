@@ -8,7 +8,7 @@
 [<img align="left" alt="Excel" width="45px" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png?raw=true" style="padding-right:10px;" />](https://www.microsoft.com/en-gb/microsoft-365/excel)
 [<img align="left" alt="PowerBI" width="45px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" style="padding-right:10px;" />](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 
-</br>
+<br />
 
 
 ### Languages
