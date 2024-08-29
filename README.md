@@ -20,6 +20,11 @@
 <br />
 <br />
 
+### Certification
+
+- [Google Data Analytics Professional Certificate](https://coursera.org/share/b46a336dd591cdf65de635e52a844424) (Aug 2024) (Google/Coursera)
+
+
 
 ### Socials
 
