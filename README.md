@@ -3,11 +3,11 @@
 
 ### Data Skills
 [<img align="left" alt="SQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" style="padding-right:10px;" />](https://www.mysql.com/)
-[<img align="left" alt="Excel" width="45px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg]" style="padding-right:10px;" />](https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png?raw=true)
-[<img align="left" alt="PowerBI" width="45px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg]" style="padding-right:10px;" />](https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true)
+[<img align="left" alt="Excel" width="45px" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png?raw=true" style="padding-right:10px;" />](https://www.microsoft.com/en-gb/microsoft-365/excel)
+[<img align="left" alt="PowerBI" width="45px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" style="padding-right:10px;" />](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 
-<a href="https://www.microsoft.com/en-gb/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png?raw=true" width="36" height="36" style="padding: 10px;" alt="Excel"/></a>
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" width="36" height="36" style="padding: 10px;" alt="PowerBi"/></a>
+<a href="" target="_blank" rel="noreferrer"><img src="" width="36" height="36" style="padding: 10px;" alt="Excel"/></a>
+<a href="" target="_blank" rel="noreferrer"><img src="" width="36" height="36" style="padding: 10px;" alt="PowerBi"/></a>
 
 
 
