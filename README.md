@@ -25,7 +25,7 @@
 [<img align="left" alt="GitHub" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="padding-right:10px;"/>](https://www.github.com/MattParsons-MP)
 [<img align="left" alt="SQL" width="36" height="36" src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/instagram.svg?sanitize=true" style="padding-right:10px;"/>]("http://www.instagram.com/cloudsurfer27)
 [<img align="left" alt="SQL" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="padding-right:10px;"/>](https://www.linkedin.com/in/mathew-parsons-b9906549/)
-[<img align="left" alt="SQL" width="36" height="36" src="https://www.svgrepo.com/show/13671/youtube.svg" style="padding-right:10px;"/>](https://www.youtube.com/@stealthy6018)
+
 
 <br />
 <br />
