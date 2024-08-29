@@ -2,7 +2,7 @@
 📖 I’m currently working on my skills<br>🌱 I’m currently learning more about Data Analysis.<br>🔭 I’m looking for employment opportunities<br>🛰️ I build and operate autonomous RC aircraft<br>🛩️ I operate a WW2 aircraft in my spare time<br>📫 Reach me at:  mat.parsons.27@gmail.com
 
 ### Data Skills
-[<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" style="padding-right:10px;" />]([https://docs.microsoft.com/en-us/cpp/?view=msvc-170](https://www.mysql.com/))
+[<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" style="padding-right:10px;" />](https://www.mysql.com/)
 
 
 <a href="https://www.microsoft.com/en-gb/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png?raw=true" width="36" height="36" style="padding: 10px;" alt="Excel"/></a>
