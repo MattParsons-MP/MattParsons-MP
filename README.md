@@ -13,9 +13,9 @@
 
 ### Languages
 
-[<img align="left" alt="C" width="36px" height="36" src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg](https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/css3.svg?sanitize=true)" style="padding-right:10px;"/>](https://www.w3.org/TR/CSS/#css)
+[<img align="left" alt="C" width="36px" height="36" src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/css3.svg?sanitize=true" style="padding-right:10px;"/>](https://www.w3.org/TR/CSS/#css)
 [<img align="left" alt="Java" width="36px" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" style="padding-right:10px;"/>](https://www.oracle.com/java/)
-[<img align="left" alt="JavaScript" width="36px" height="36" src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg](https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/javascript.svg?sanitize=true)" style="padding-right:10px;"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[<img align="left" alt="JavaScript" width="36px" height="36" src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/skills-icons/javascript.svg?sanitize=true" style="padding-right:10px;"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 
 <br />
 <br />
