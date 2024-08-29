@@ -4,17 +4,18 @@
 ### Data Skills
 
 
-[<img align="left" alt="SQL" width="36px" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" style="padding-right:10px;"/>](https://www.mysql.com/)
-[<img align="left" alt="Excel" width="36px" height="36" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png?raw=true" style="padding-right:10px;"/>](https://www.microsoft.com/en-gb/microsoft-365/excel)
-[<img align="left" alt="PowerBI" width="36px" height="36" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" style="padding-right:10px;"/>](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+[<img align="left" alt="SQL" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" style="padding-right:10px;"/>](https://www.mysql.com/)
+[<img align="left" alt="Excel" width="36" height="36" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png?raw=true" style="padding-right:10px;"/>](https://www.microsoft.com/en-gb/microsoft-365/excel)
+[<img align="left" alt="PowerBI" width="36" height="36" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" style="padding-right:10px;"/>](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 
 <br />
 <br />
 
-### Languages
+### Languages Used
 
-[<img align="left" alt="Java" width="36px" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;"/>](https://www.oracle.com/java/)
-[<img align="left" alt="JavaScript" width="36px" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[<img align="left" alt="Java" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;"/>](https://www.oracle.com/java/)
+[<img align="left" alt="JavaScript" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[<img align="left" alt="JavaScript" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" style="padding-right:10px;"/>](https://posit.co/)
 
 <br />
 <br />
