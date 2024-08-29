@@ -23,9 +23,9 @@
 
 ### Socials
 
-[<img align="left" alt="JavaScript" width="36px" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" style="padding-right:10px;"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[<img align="left" alt="JavaScript" width="36px" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" style="padding-right:10px;"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 
-[<img align="left" alt="GitHub" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" style="padding-right:10px;"/>](https://www.github.com/MattParsons-MP)
+[<img align="left" alt="GitHub" width="32" height="32" src="" style="padding-right:10px;"/>](https://www.github.com/MattParsons-MP)
 [<img align="left" alt="SQL" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" style="padding-right:10px;"/>]("http://www.instagram.com/cloudsurfer27)
 [<img align="left" alt="SQL" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" style="padding-right:10px;"/>](https://www.linkedin.com/in/mathew-parsons-b9906549/)
 [<img align="left" alt="SQL" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" style="padding-right:10px;"/>](https://www.youtube.com/@stealthy6018)
