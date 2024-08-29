@@ -23,18 +23,16 @@
 
 ### Socials
 
-[<img align="left" alt="JavaScript" width="36px" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" style="padding-right:10px;"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-
-[<img align="left" alt="GitHub" width="32" height="32" src="" style="padding-right:10px;"/>](https://www.github.com/MattParsons-MP)
-[<img align="left" alt="SQL" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" style="padding-right:10px;"/>]("http://www.instagram.com/cloudsurfer27)
-[<img align="left" alt="SQL" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" style="padding-right:10px;"/>](https://www.linkedin.com/in/mathew-parsons-b9906549/)
-[<img align="left" alt="SQL" width="32" height="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" style="padding-right:10px;"/>](https://www.youtube.com/@stealthy6018)
+[<img align="left" alt="GitHub" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="padding-right:10px;"/>](https://www.github.com/MattParsons-MP)
+[<img align="left" alt="SQL" width="36" height="36" src="" style="padding-right:10px;"/>]("http://www.instagram.com/cloudsurfer27)
+[<img align="left" alt="SQL" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="padding-right:10px;"/>](https://www.linkedin.com/in/mathew-parsons-b9906549/)
+[<img align="left" alt="SQL" width="36" height="36" src="" style="padding-right:10px;"/>](https://www.youtube.com/@stealthy6018)
 
 <br />
 <br />
 
 
-<p align="left"> <a href="" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href=" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="" width="32" height="32" /> </picture> </a></p>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MattParsons-MP&theme=default&hide_border=true)<br/>
