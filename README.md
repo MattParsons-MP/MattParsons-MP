@@ -22,6 +22,7 @@
 
 ## Certification
 
+
 - [Google Data Analytics Professional](https://coursera.org/share/70ea27ff33417e789fd121b093ccc655) (Aug 2024) (Google)
 
 - [Harnessing the Power of Data with Power Bi](https://coursera.org/share/416db9bb4adf994ce8e832ba55e89278) (Aug 2024) (Microsoft)
