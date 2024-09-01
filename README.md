@@ -1,4 +1,4 @@
-# 💫 Mathew Parsons:
+# 💫 Mathew Parsons
 📖 I’m currently working on my skills<br>🌱 I’m in the early stages of my career transition into Data Analysis.<br>🔭 I’m looking for employment opportunities to develop my real world skillsets<br>📫 Reach me at:  mat.parsons.27@gmail.com
 
 ## Data Skills
