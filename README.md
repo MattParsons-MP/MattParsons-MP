@@ -46,7 +46,7 @@
 
 
 # 📊 GitHub Stats:
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MattParsons-MP&theme=default&hide_border=true" /> <br/>
+<img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=MattParsons-MP&theme=default&hide_border=true" /> <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattParsons-MP&layout=pie" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattParsons-MP" />
 ---
