@@ -1,26 +1,26 @@
 # 💫 About Me:
 📖 I’m currently working on my skills<br>🌱 I’m in the early stages of my career transition into Data Analysis.<br>🔭 I’m looking for employment opportunities to develop my real world skillsets<br>📫 Reach me at:  mat.parsons.27@gmail.com
 
-### Data Skills
+## Data Skills
 
 
-[<img align="center" alt="SQL" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" style="padding-right:10px;"/>](https://www.mysql.com/)
+[<img align="left" alt="SQL" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" style="padding-right:10px;"/>](https://www.mysql.com/)
 [<img align="left" alt="Excel" width="36" height="36" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png?raw=true" style="padding-right:10px;"/>](https://www.microsoft.com/en-gb/microsoft-365/excel)
 [<img align="left" alt="PowerBI" width="36" height="36" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" style="padding-right:10px;"/>](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 
 <br />
 <br />
 
-### Languages Used
+## Languages Used
 
-[<img align="left" alt="Java" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;"/>](https://www.oracle.com/java/)
-[<img align="left" alt="JavaScript" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-[<img align="left" alt="JavaScript" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" style="padding-right:10px;"/>](https://posit.co/)
+[<img align="left" alt="Java" width="46" height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;"/>](https://www.oracle.com/java/)
+[<img align="left" alt="JavaScript" width="46" height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[<img align="left" alt="JavaScript" width="46" height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" style="padding-right:10px;"/>](https://posit.co/)
 
 <br />
 <br />
 
-### Certification
+## Certification
 
 - [Google Data Analytics Professional](https://coursera.org/share/70ea27ff33417e789fd121b093ccc655) (Aug 2024) (Google)
 
@@ -34,7 +34,7 @@
 
 
 
-### Socials
+## Socials
 <div align='center'>
 
 [<img align="left" alt="GitHub" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="padding-right:10px;"/>](https://www.github.com/MattParsons-MP)
