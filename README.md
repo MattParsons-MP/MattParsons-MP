@@ -47,6 +47,7 @@
 
 
 # 📊 GitHub Stats
+--------------------------------------------------------------------
 <div align='center'>
 
 <img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=MattParsons-MP&theme=catppuccin_latte&hide_border=true" /> <br/>
