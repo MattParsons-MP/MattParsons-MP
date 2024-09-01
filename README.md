@@ -52,7 +52,7 @@
 <img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=MattParsons-MP&theme=catppuccin_latte&hide_border=true" /> <br/>
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattParsons-MP&theme=catppuccin_latte&layout=pie" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattParsons-MP" /> <br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattParsons-MP&theme=catppuccin_latte" /> <br/>
 
 <img align='center' src="https://visitcount.itsvg.in/api?id=MattParsons-MP&icon=0&color=0)" />
 
