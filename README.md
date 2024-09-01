@@ -35,6 +35,7 @@
 
 
 ### Socials
+<div align='center'>
 
 [<img align="left" alt="GitHub" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="padding-right:10px;"/>](https://www.github.com/MattParsons-MP)
 [<img align="left" alt="SQL" width="36" height="36" src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/instagram.svg?sanitize=true" style="padding-right:10px;"/>]("http://www.instagram.com/cloudsurfer27)
@@ -46,10 +47,11 @@
 
 
 # 📊 GitHub Stats:
+<div align='center'>
 <img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=MattParsons-MP&theme=default&hide_border=true" /> <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattParsons-MP&layout=pie" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattParsons-MP" />
 ---
 [![](https://visitcount.itsvg.in/api?id=MattParsons-MP&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
