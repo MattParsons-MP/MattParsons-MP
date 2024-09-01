@@ -13,9 +13,9 @@
 
 ## Languages Used
 
-[<img align="left" alt="Java" width="46" height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;"/>](https://www.oracle.com/java/)
-[<img align="left" alt="JavaScript" width="46" height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-[<img align="left" alt="JavaScript" width="46" height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" style="padding-right:10px;"/>](https://posit.co/)
+[<img align="left" alt="Java" width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;"/>](https://www.oracle.com/java/)
+[<img align="left" alt="JavaScript" width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[<img align="left" alt="JavaScript" width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" style="padding-right:10px;"/>](https://posit.co/)
 
 <br />
 <br />
