@@ -52,6 +52,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattParsons-MP&layout=pie" /> <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattParsons-MP" /> <br/>
 ---
-[![](https://visitcount.itsvg.in/api?id=MattParsons-MP&icon=0&color=0)](https://visitcount.itsvg.in)
+<img align='center' src="https://visitcount.itsvg.in/api?id=MattParsons-MP&icon=0&color=0)" />
 
 </div>
