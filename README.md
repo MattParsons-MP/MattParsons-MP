@@ -16,7 +16,7 @@
 
 [<img align="left" alt="Java" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;"/>](https://www.oracle.com/java/)
 [<img align="left" alt="JavaScript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-[<img align="left" alt="Python" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;"/>]([https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://www.python.org/))
+[<img align="left" alt="Python" width="60" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;"/>]([https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://www.python.org/))
 
 <br />
 <br />
