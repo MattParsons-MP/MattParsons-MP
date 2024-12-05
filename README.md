@@ -1,5 +1,6 @@
 # 💫 Mathew Parsons
 📖 I am an ex military engineer transitioning into Data analysis<br>🌱 I continue to work on projects to improve my skills<br>🔭 I am open to opportunities to develop my skillsets<br>📫 Reach me at:  mat.parsons.27@gmail.com
+<br />
 
 ## Software Used
 
@@ -11,6 +12,8 @@
 
 <br />
 <br />
+<br />
+
 
 ## Languages Used
 
@@ -18,6 +21,7 @@
 [<img align="left" alt="JavaScript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [<img align="left" alt="Python" width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;"/>]([https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://www.python.org/))
 
+<br />
 <br />
 <br />
 
@@ -33,7 +37,13 @@
 
 - [Data Cleaning In Excel](https://coursera.org/share/253c4149fdcb5aa36e89c7e00f9d4a1e) (Aug 2024) (Coursera)
 
+<br />
 
+## Data Analysis Projects
+
+- [UAV Telemetry Performance](https://github.com/MattParsons-MP/Data-Analysis--RF-Performance)
+
+<br />
 
 ## Socials
 <div align='center'>
