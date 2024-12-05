@@ -1,7 +1,7 @@
 # 💫 Mathew Parsons
 📖 I am an ex military engineer transitioning into Data analysis<br>🌱 I continue to work on projects to improve my skills<br>🔭 I am open to opportunities to develop my skillsets<br>📫 Reach me at:  mat.parsons.27@gmail.com
 
-## Data Skills
+## Software Used
 
 
 [<img align="left" alt="SQL" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" style="padding-right:10px;"/>](https://www.mysql.com/)
