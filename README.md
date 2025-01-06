@@ -27,7 +27,7 @@
 
 ## Certification 
 
-- [Cyber & Security]([https://coursera.org/share/70ea27ff33417e789fd121b093ccc655](https://github.com/MattParsons-MP/CyberSecurity-and-Certification)) (CompTIA, Blue Team)
+- [Cyber & Security](https://github.com/MattParsons-MP/CyberSecurity-and-Certification) (CompTIA, Blue Team)
 
 - [Google Data Analytics Professional](https://coursera.org/share/70ea27ff33417e789fd121b093ccc655) (Aug 2024) (Google)
 
