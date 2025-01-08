@@ -43,8 +43,7 @@
 
 ## Projects
 
-- [UAV Telemetry Performance](https://github.com/MattParsons-MP/Data-Analysis--RF-Performance)
-- [Bike Sales](https://github.com/MattParsons-MP/Data-Analysis----Bike-Sales)
+- [Data Analysis](https://github.com/MattParsons-MP/My-Data-Analysis-Projects)
 
 <br />
 
