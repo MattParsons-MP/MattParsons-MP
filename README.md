@@ -9,7 +9,9 @@
 [<img align="left" alt="Excel" width="50" height="50" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png?raw=true" style="padding-right:10px;"/>](https://www.microsoft.com/en-gb/microsoft-365/excel)
 [<img align="left" alt="PowerBI" width="50" height="50" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" style="padding-right:10px;"/>](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 [<img align="left" alt="Tableau" width="50" height="50" src="https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J" style="padding-right:10px;"/>]([https://www.microsoft.com/en-us/power-platform/products/power-bi](https://www.tableau.com/en-gb))
-
+[<img align="left" alt="Kali" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png?20211125065834" style="padding-right:10px;"/>](https://www.kali.org/)
+[<img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;"/>](https://www.linux.org/)
+          
 <br />
 <br />
 <br />
