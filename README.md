@@ -1,5 +1,5 @@
 # 💫 Mathew Parsons
-📖 I am an ex military engineer transitioning into Data analysis/IT<br>🌱 I continue to work on projects to improve my skills<br>🔭 I am open to opportunities to develop my skillsets<br>📫 Reach me at:  mat.parsons.27@gmail.com
+📖 I am an ex military engineer transitioning into Cyber Security<br>🌱 I continue to work on projects to improve my skills<br>🔭 I am open to opportunities to develop my skillsets<br>📫 Reach me at:  mat.parsons.27@gmail.com
 <br />
 
 ## Software Used
