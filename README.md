@@ -1,5 +1,5 @@
 # 💫 Mathew Parsons
-📖 I am an ex military engineer transitioning into Cyber Security<br>🌱 I continue to work on projects to improve my skills<br>🔭 I am open to opportunities to develop my skillsets<br>📫 Reach me at:  mat.parsons.27@gmail.com
+📖  I am an ex military engineer transitioning into Cyber Security<br>🌱  I continue to study and work on projects to improve my skills<br>🔭  I am open to opportunities to develop my skillsets<br>📫  Reach me at:  mat.parsons.27@gmail.com
 <br />
 
 ## Software Used
@@ -7,8 +7,6 @@
 
 [<img align="left" alt="SQL" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" style="padding-right:10px;"/>](https://www.mysql.com/)
 [<img align="left" alt="Excel" width="50" height="50" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png?raw=true" style="padding-right:10px;"/>](https://www.microsoft.com/en-gb/microsoft-365/excel)
-[<img align="left" alt="PowerBI" width="50" height="50" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" style="padding-right:10px;"/>](https://www.microsoft.com/en-us/power-platform/products/power-bi)
-[<img align="left" alt="Tableau" width="50" height="50" src="https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J" style="padding-right:10px;"/>]([https://www.microsoft.com/en-us/power-platform/products/power-bi](https://www.tableau.com/en-gb))
 [<img align="left" alt="Kali" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png?20211125065834" style="padding-right:10px;"/>](https://www.kali.org/)
 [<img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;"/>](https://www.linux.org/)
           
@@ -29,17 +27,19 @@
 
 ## Certification 
 
+[<img align="left" alt="A+" width="70" height="70" src="https://images.credly.com/size/340x340/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" style="padding-right:10px;"/>](https://github.com/MattParsons-MP/CyberSecurity-and-Certification)
+[<img align="left" alt="Security" width="70" height="70" src="https://images.credly.com/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" style="padding-right:10px;"/>](https://github.com/MattParsons-MP/CyberSecurity-and-Certification)
+[<img align="left" alt="Network" width="68" height="68" src="https://images.credly.com/size/340x340/images/9f3a0aa9-ad62-4687-9b11-ddb626259fe2/CompTIA_Network_2B.png" style="padding-right:10px;"/>](https://github.com/MattParsons-MP/CyberSecurity-and-Certification)
+</br>
+</br>
+</br>
+</br>
+ 
+  
 - [Cyber & Security](https://github.com/MattParsons-MP/CyberSecurity-and-Certification) (CompTIA, Blue Team, Arc X)
 
 - [Google Data Analytics Professional](https://coursera.org/share/70ea27ff33417e789fd121b093ccc655) (Aug 2024) (Google)
 
-- [Harnessing the Power of Data with Power Bi](https://coursera.org/share/416db9bb4adf994ce8e832ba55e89278) (Aug 2024) (Microsoft)
-
-- [Data Analysis with SQL: Inform a Business Decision](https://coursera.org/share/25686eee7b5810593cb2e35498e91406) (Aug 2024) (Coursera)
-
-- [Prepare, Clean, Transform and Load Data using Power Bi](https://coursera.org/share/b46a336dd591cdf65de635e52a844424) (Aug 2024) (Coursera)
-
-- [Data Cleaning In Excel](https://coursera.org/share/253c4149fdcb5aa36e89c7e00f9d4a1e) (Aug 2024) (Coursera)
 
 <br />
 
