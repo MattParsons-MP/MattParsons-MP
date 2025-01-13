@@ -1,5 +1,12 @@
 # 💫 Mathew Parsons
-📖  I am an ex military engineer transitioning into Cyber Security<br>🌱  I continue to study and work on projects to improve my skills<br>🔭  I am open to opportunities to develop my skillsets<br>📫  Reach me at:  mat.parsons.27@gmail.com
+📖  I am an ex military engineer transitioning into a career in Cyber Security<br><br>
+📖  I originally trained in data analysis, but implementing analytical processes within the cyberSecurity landscape has proven invaluable to my learning  <br><br>
+📖  My knowledge of SQL has accelerated my progress regarding the query languages used within CyberSecurity (Kusto, etc.)<br><br>
+📖  Having lifelong tech-related hobbies has greatly supported my journey<br><br>
+📖  Much of my experience so far has involved identifying and addressing knowledge gaps to reach a professional level<br><br>
+🌱  I continue to study and work on projects to improve my skills<br><br>
+🔭  I am actively searching for opportunities to apply my skills<br><br>
+📫  Reach me at:  mat.parsons.27@gmail.com
 <br />
 
 ## Software Used
