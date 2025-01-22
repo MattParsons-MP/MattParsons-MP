@@ -4,7 +4,9 @@
 📖  My knowledge of SQL has accelerated my progress regarding the query languages used within CyberSecurity (Kusto, etc.)<br><br>
 📖  Having a lifelong interest in computing has greatly supported my journey<br><br>
 📖  Much of my experience so far has involved identifying and addressing knowledge gaps to reach a professional level<br><br>
-🌱  I continue to study and work on projects to improve my skills<br><br>
+📖  As a a subscriber to TryHackMe, I utilise online labs and various learning platforms, to expand my knowledge<br><br>
+📖  Many of my training opportunities have been provided by the fantastic team at TechVets - an organisation dedicated to supporting tech minded military personnel into Cyber careers<br><br>
+🌱  I consistently study and work on projects to enhance my skills<br><br>
 🔭  I am actively searching for opportunities to apply my skills<br><br>
 📫  Reach me at:  mat.parsons.27@gmail.com
 <br />
