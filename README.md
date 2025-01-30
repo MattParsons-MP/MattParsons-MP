@@ -1,7 +1,6 @@
 # 💫 Mathew Parsons
 📖  I am an ex military engineer transitioning into a career in Cyber Security<br><br>
-📖  I originally trained in data analysis, but implementing analytical processes within the cyberSecurity landscape has proven invaluable to my learning  <br><br>
-📖  My knowledge of SQL has accelerated my progress regarding the query languages used within CyberSecurity (Kusto, etc.)<br><br>
+📖  Having trained in data analysis, implementing analytical processes within the cyberSecurity landscape has proven invaluable to my learning  <br><br>
 📖  Having a lifelong interest in computing has greatly supported my journey<br><br>
 📖  Much of my experience so far has involved identifying and addressing knowledge gaps to reach a professional level<br><br>
 📖  As a a subscriber to TryHackMe, I utilise online labs and various learning platforms, to expand my knowledge<br><br>
