@@ -30,7 +30,7 @@
 [<img align="left" alt="SQL" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" style="padding-right:10px;"/>](https://www.mysql.com/)
 [<img align="left" alt="Kali" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png?20211125065834" style="padding-right:10px;"/>](https://www.kali.org/)
 [<img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;"/>](https://www.linux.org/)
-[<img align="left" alt="Windows" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" style="padding-right:10px;"/>](https://www.linux.org/)
+[<img align="left" alt="Windows" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" style="padding-right:10px;"/>](https://www.microsoft.com/en-gb/windows?r=1)
           
           
 <br />
