@@ -1,12 +1,26 @@
 # 💫 Mathew Parsons
-📖  I am an ex military engineer transitioning into a career in Cyber Security<br><br>
-📖  Having trained in data analysis, implementing analytical processes within the cyberSecurity landscape has proven invaluable to my learning  <br><br>
-📖  Having a lifelong interest in computing has greatly supported my journey<br><br>
-📖  Many of my training opportunities have been provided by the fantastic team at TechVets - an organisation dedicated to supporting tech minded military personnel into Cyber careers<br><br>
-🌱  I consistently study and work on projects to enhance my skills<br><br>
-📖  As a a subscriber to TryHackMe, I utilise online labs and various learning platforms, to expand my knowledge<br><br>
-🔭  I am actively searching for opportunities to apply my skills<br><br>
-📫  Reach me at:  mat.parsons.27@gmail.com
+📖 &nbsp;&nbsp;&nbsp;&nbsp;I am an ex military engineer transitioning into a career in Cyber Security.<br>
+
+🌱 &nbsp;&nbsp;&nbsp;&nbsp;Having trained in data analysis, implementing analytical processes within the cyberSecurity landscape <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;has proven invaluable to my learning.<br>
+
+📖 &nbsp;&nbsp;&nbsp;&nbsp;Having a lifelong interest in computing has greatly supported my journey.<br>
+
+🌱 &nbsp;&nbsp;&nbsp;&nbsp;I have explored various fields of computer science, including studying Java at the Open University of Helsinki<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and computer science through Harvard's CS50 program. Additionally, I have used FreeCodeCamp's online resources<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to gain proficiency in HTML.<br>
+
+📖 &nbsp;&nbsp;&nbsp;&nbsp;Many of my  recent training opportunities have been provided by the fantastic team at TechVets - an organisation<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dedicated to supporting tech minded military personnel into Cyber careers.<br>
+
+🌱 &nbsp;&nbsp;&nbsp;&nbsp;I consistently study and work on projects to enhance my skills.<br>
+
+📖 &nbsp;&nbsp;&nbsp;&nbsp;As a a subscriber to TryHackMe, I utilise online labs and various learning platforms, to expand my knowledge in Cyber Security.<br>
+
+🔭 &nbsp;&nbsp;&nbsp;&nbsp;I am open to opportunities where I can apply my knowledge.<br>
+
+📫 &nbsp;&nbsp;&nbsp;&nbsp;Reach me at:  mat.parsons.27@gmail.com
+
 <br />
 <br />
 
@@ -16,6 +30,8 @@
 [<img align="left" alt="SQL" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" style="padding-right:10px;"/>](https://www.mysql.com/)
 [<img align="left" alt="Kali" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png?20211125065834" style="padding-right:10px;"/>](https://www.kali.org/)
 [<img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;"/>](https://www.linux.org/)
+[<img align="left" alt="Windows" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" style="padding-right:10px;"/>](https://www.linux.org/)
+          
           
 <br />
 <br />
@@ -25,8 +41,15 @@
 ## Languages Used
 
 [<img align="left" alt="Java" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right:10px;"/>](https://www.oracle.com/java/)
+[<img align="left" alt="HTML" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" style="padding-right:10px;"/>](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+[<img align="left" alt="CSS" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" style="padding-right:10px;"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+           
+          
+           
+          
+
 [<img align="left" alt="JavaScript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-[<img align="left" alt="Python" width="55" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;"/>]([https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://www.python.org/))
+
 
 <br />
 <br />
