@@ -101,7 +101,6 @@
 --------------------------------------------------------------------
 <div align='center'>
 
-![tryhackme stats](https://raw.githubusercontent.com/Stealthy27/Stealthy27/master/assets/thm_propic.png)
 
 <img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=MattParsons-MP&theme=catppuccin_latte&hide_border=true" /> <br/>
   
