@@ -92,7 +92,7 @@
 [<img align="left" alt="SQL" width="50" height="50" src="https://ulsesifcfgmgsvjcuvqs.supabase.co/storage/v1/object/public/socials-icons/instagram.svg?sanitize=true" style="padding-right:10px;"/>]("http://www.instagram.com/cloudsurfer27)
 [<img align="left" alt="SQL" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="padding-right:10px;"/>](https://www.linkedin.com/in/mathew-parsons-b9906549/)
 
-![tryhackme stats](https://raw.githubusercontent.com/MattParsons-MP/assets/tryhackme-badge.png)
+![tryhackme stats](https://raw.githubusercontent.com/MattParsons-MP/MattParsons-MP/assets/tryhackme-badge.png)
 
 <br />
 
