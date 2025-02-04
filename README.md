@@ -106,6 +106,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattParsons-MP&theme=catppuccin_latte" /> <br/>
 
 <br />
-![](https://komarev.com/ghpvc/?username=MattParsons-MP&color=green)
+
+[![GitHub Views](https://komarev.com/ghpvc/?username=MattParsons-MP&color=FAC151)][1]
 
 </div>
