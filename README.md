@@ -93,7 +93,7 @@
 [<img align="left" alt="SQL" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="padding-right:10px;"/>](https://www.linkedin.com/in/mathew-parsons-b9906549/)
 
 ![tryhackme stats](https://raw.githubusercontent.com/MattParsons-MP/MattParsons-MP/assets/tryhackme-badge.png)
-
+![tryhackme stats](https://github.com/MattParsons-MP/MattParsons-MP/assets/tryhackme-badge.png)
 <br />
 
 <br />
