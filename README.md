@@ -107,6 +107,6 @@
 
 <br />
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=MattParsons-MP&color=FAC151)][1]
+[![GitHub Views](https://komarev.com/ghpvc/?username=MattParsons-MP&color=FAC151)]
 
 </div>
