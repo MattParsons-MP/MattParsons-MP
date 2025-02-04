@@ -22,6 +22,9 @@
 📫 &nbsp;&nbsp;&nbsp;&nbsp;Reach me at:  mat.parsons.27@gmail.com
 
 <br />
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/Stealthy27.png" alt="Your Image Badge" />
+
 <br />
 
 ## Software Used
