@@ -6,16 +6,19 @@
 
 📖 &nbsp;&nbsp;&nbsp;&nbsp;Having a lifelong interest in computing has greatly supported my journey.<br>
 
-🌱 &nbsp;&nbsp;&nbsp;&nbsp;I have explored various fields of computer science, including studying Java at the Open University of Helsinki<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and computer science through Harvard's CS50 program. Additionally, I have used FreeCodeCamp's online resources<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to gain proficiency in HTML.<br>
+🌱 &nbsp;&nbsp;&nbsp;&nbsp;I have explored various fields of computer science, including Java at the Open University of Helsinki<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and computer science through Harvard's CS50 program.<br>
 
-📖 &nbsp;&nbsp;&nbsp;&nbsp;Many of my  recent training opportunities have been provided by the fantastic team at TechVets - an organisation<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dedicated to supporting tech minded military personnel into Cyber careers.<br>
+📖 &nbsp;&nbsp;&nbsp;&nbsp;I have gained certification in responsive web design to achieve proficiency in HTML.<br> 
 
-🌱 &nbsp;&nbsp;&nbsp;&nbsp;I consistently study and work on projects to enhance my skills.<br>
+🌱 &nbsp;&nbsp;&nbsp;&nbsp;I have utilised portswigger training academy to enhance my knowledge of Web Application Testing.<br>
 
 📖 &nbsp;&nbsp;&nbsp;&nbsp;As a a subscriber to TryHackMe, I utilise online labs and various learning platforms, to expand my knowledge in Cyber Security.<br>
+
+🌱 &nbsp;&nbsp;&nbsp;&nbsp;Many of my  recent training opportunities have been provided by the fantastic team at TechVets - an organisation<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dedicated to supporting tech minded military personnel into Cyber careers.<br>
+
+📖 &nbsp;&nbsp;&nbsp;&nbsp;I consistently study and work on projects to enhance my skills.<br>
 
 🔭 &nbsp;&nbsp;&nbsp;&nbsp;I am open to opportunities where I can apply my knowledge.<br>
 
@@ -34,7 +37,7 @@
 [<img align="left" alt="Kali" width="50" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png?20211125065834" style="padding-right:10px;"/>](https://www.kali.org/)
 [<img align="left" alt="Linux" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;"/>](https://www.linux.org/)
 [<img align="left" alt="Windows" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" style="padding-right:10px;"/>](https://www.microsoft.com/en-gb/windows?r=1)
-          
+[<img align="left" alt="Burp" width="50" height="50" src="https://github.com/MattParsons-MP/MattParsons-MP/blob/main/assets/burp.png" style="padding-right:10px;"/>](https://portswigger.net/burp)          
           
 <br />
 <br />
@@ -67,8 +70,8 @@
 </br>
 </br>
 </br>
- 
 
+- [Responsive Web Design](https://github.com/MattParsons-MP/MattParsons-MP/blob/main/assets/Responsive%20Web%20Design%20FCC.png)
 
 -   [Cyber & Security](https://github.com/MattParsons-MP/CyberSecurity-and-Certification) (CompTIA, Blue Team, Arc X)
      - [CompTIA Network +](https://github.com/MattParsons-MP/CyberSecurity-and-Certification/tree/main/Certifications/CompTIA%20Network%20%2B)
