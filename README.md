@@ -63,9 +63,9 @@
 
 ## Certification 
 
-[<img align="left" alt="A+" width="70" height="70" src="https://images.credly.com/size/340x340/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" style="padding-right:10px;"/>](https://github.com/MattParsons-MP/CyberSecurity-and-Certification)
-[<img align="left" alt="Security" width="70" height="70" src="https://images.credly.com/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" style="padding-right:10px;"/>](https://github.com/MattParsons-MP/CyberSecurity-and-Certification)
-[<img align="left" alt="Network" width="68" height="68" src="https://images.credly.com/size/340x340/images/9f3a0aa9-ad62-4687-9b11-ddb626259fe2/CompTIA_Network_2B.png" style="padding-right:10px;"/>](https://github.com/MattParsons-MP/CyberSecurity-and-Certification)
+[<img align="left" alt="A+" width="70" height="70" src="https://github.com/MattParsons-MP/MattParsons-MP/blob/main/assets/CompTIA_A.png" style="padding-right:10px;"/>](https://github.com/MattParsons-MP/CyberSecurity-and-Certification)
+[<img align="left" alt="Security" width="70" height="70" src="https://github.com/MattParsons-MP/MattParsons-MP/blob/main/assets/CompTIA_Security.png" style="padding-right:10px;"/>](https://github.com/MattParsons-MP/CyberSecurity-and-Certification)
+[<img align="left" alt="Network" width="68" height="68" src="https://github.com/MattParsons-MP/MattParsons-MP/blob/main/assets/CompTIA_Network.png" style="padding-right:10px;"/>](https://github.com/MattParsons-MP/CyberSecurity-and-Certification)
 </br>
 </br>
 </br>
