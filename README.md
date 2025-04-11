@@ -78,7 +78,10 @@
      - [CompTIA Security +](https://github.com/MattParsons-MP/CyberSecurity-and-Certification/tree/main/Certifications/CompTIA%20Security%20%2B)
      - [CompTIA A +](https://github.com/MattParsons-MP/CyberSecurity-and-Certification/tree/main/Certifications/CompTIA%20Core1)       
      - [Cyber Threat Intelligence 101](https://github.com/MattParsons-MP/CyberSecurity-and-Certification/blob/main/Certifications/Arc%20X%20-%20Cyber%20Threat%20Intelligence%20101.pdf)
-
+     - [Introduction to Digital Forensics](https://github.com/MattParsons-MP/CyberSecurity-and-Certification/blob/main/Certifications/SBT%20-%20Introduction%20to%20Digital%20Forensics.pdf)
+     - [Introduction to Network Analysis](https://github.com/MattParsons-MP/CyberSecurity-and-Certification/blob/main/Certifications/SBT%20-%20Introduction%20to%20Network%20Analysis.pdf)
+     - [Introduction to OSINT](https://github.com/MattParsons-MP/CyberSecurity-and-Certification/blob/main/Certifications/SBT%20-%20Introduction%20to%20OSINT.pdf)
+     - [Introduction to Vulnerability Management](https://github.com/MattParsons-MP/CyberSecurity-and-Certification/blob/main/Certifications/SBT%20-%20Introduction%20to%20Vulnerability%20Management.pdf)
        
 - [Google Data Analytics Professional](https://coursera.org/share/70ea27ff33417e789fd121b093ccc655)
 
