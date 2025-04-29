@@ -11,14 +11,16 @@
 
 📖 &nbsp;&nbsp;&nbsp;&nbsp;I have gained certification in responsive web design to achieve proficiency in HTML.<br> 
 
-🌱 &nbsp;&nbsp;&nbsp;&nbsp;I have utilised portswigger training academy to enhance my knowledge of Web Application Testing.<br>
+🌱 &nbsp;&nbsp;&nbsp;&nbsp;I have an NCFE Level 2 in Principles of Cyber Security.<br>
 
-📖 &nbsp;&nbsp;&nbsp;&nbsp;As a a subscriber to TryHackMe, I utilise online labs and various learning platforms, to expand my knowledge in Cyber Security.<br>
+📖 &nbsp;&nbsp;&nbsp;&nbsp;I have utilised portswigger training academy to enhance my knowledge of Web Application Testing.<br>
 
-🌱 &nbsp;&nbsp;&nbsp;&nbsp;Many of my  recent training opportunities have been provided by the fantastic team at TechVets - an organisation<br> 
+🌱 &nbsp;&nbsp;&nbsp;&nbsp;As a a subscriber to TryHackMe, I utilise online labs and various learning platforms, to expand my knowledge in Cyber Security.<br>
+
+📖 &nbsp;&nbsp;&nbsp;&nbsp;Many of my  recent training opportunities have been provided by the fantastic team at TechVets - an organisation<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dedicated to supporting tech minded military personnel into Cyber careers.<br>
 
-📖 &nbsp;&nbsp;&nbsp;&nbsp;I consistently study and work on projects to enhance my skills.<br>
+🌱 &nbsp;&nbsp;&nbsp;&nbsp;I consistently study and work on projects to enhance my skills.<br>
 
 🔭 &nbsp;&nbsp;&nbsp;&nbsp;I am open to opportunities where I can apply my knowledge.<br>
 
