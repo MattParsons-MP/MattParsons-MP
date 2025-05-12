@@ -68,6 +68,7 @@
 [<img align="left" alt="A+" width="70" height="70" src="https://github.com/MattParsons-MP/MattParsons-MP/blob/main/assets/CompTIA_A.png" style="padding-right:10px;"/>](https://github.com/MattParsons-MP/CyberSecurity-and-Certification)
 [<img align="left" alt="Security" width="70" height="70" src="https://github.com/MattParsons-MP/MattParsons-MP/blob/main/assets/CompTIA_Security.png" style="padding-right:10px;"/>](https://github.com/MattParsons-MP/CyberSecurity-and-Certification)
 [<img align="left" alt="Network" width="68" height="68" src="https://github.com/MattParsons-MP/MattParsons-MP/blob/main/assets/CompTIA_Network.png" style="padding-right:10px;"/>](https://github.com/MattParsons-MP/CyberSecurity-and-Certification)
+[<img align="left" alt="Network" width="68" height="68" src="https://github.com/MattParsons-MP/MattParsons-MP/blob/main/assets/Jnr%20Pentest.png" style="padding-right:10px;"/>](https://github.com/MattParsons-MP/CyberSecurity-and-Certification)
 </br>
 </br>
 </br>
@@ -78,7 +79,8 @@
 -   [Cyber & Security](https://github.com/MattParsons-MP/CyberSecurity-and-Certification) (CompTIA, Blue Team, Arc X)
      - [CompTIA Network +](https://github.com/MattParsons-MP/CyberSecurity-and-Certification/tree/main/Certifications/CompTIA%20Network%20%2B)
      - [CompTIA Security +](https://github.com/MattParsons-MP/CyberSecurity-and-Certification/tree/main/Certifications/CompTIA%20Security%20%2B)
-     - [CompTIA A +](https://github.com/MattParsons-MP/CyberSecurity-and-Certification/tree/main/Certifications/CompTIA%20Core1)       
+     - [CompTIA A +](https://github.com/MattParsons-MP/CyberSecurity-and-Certification/tree/main/Certifications/CompTIA%20Core1)
+     - [Jnr Penetration Tester](https://github.com/MattParsons-MP/MattParsons-MP/blob/main/assets/Jnr_Pen_Test.pdf)          
      - [Cyber Threat Intelligence 101](https://github.com/MattParsons-MP/CyberSecurity-and-Certification/blob/main/Certifications/Arc%20X%20-%20Cyber%20Threat%20Intelligence%20101.pdf)
      - [Introduction to Digital Forensics](https://github.com/MattParsons-MP/CyberSecurity-and-Certification/blob/main/Certifications/SBT%20-%20Introduction%20to%20Digital%20Forensics.pdf)
      - [Introduction to Network Analysis](https://github.com/MattParsons-MP/CyberSecurity-and-Certification/blob/main/Certifications/SBT%20-%20Introduction%20to%20Network%20Analysis.pdf)
