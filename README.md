@@ -28,7 +28,7 @@
 
 <br />
 
-[<img align="center" width="400" height="100" src="https://github.com/MattParsons-MP/MattParsons-MP/blob/main/assets/tryhackme2.png" alt="Your Image Badge" />](https://tryhackme.com/p/Stealthy27)
+[<img align="center" width="400" height="100" src="https://github.com/MattParsons-MP/MattParsons-MP/blob/main/assets/tryhackme.png" alt="Your Image Badge" />](https://tryhackme.com/p/Stealthy27)
 
 <br />
 
